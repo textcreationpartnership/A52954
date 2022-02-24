@@ -1,0 +1,419 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A new plea for the Parliament and the reserved man resolved from the serious consideration of the state of controversie betweene the King and the Parliament : together with severall answeres to some common objections about this subject : as also advice to those who are yet unsettled in their thoughts hereabout / by a Wel-willer to King and Parliament.</title>
+            <author>Wel-willer to King and Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 60 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52954</idno>
+            <idno type="STC">Wing N704A</idno>
+            <idno type="STC">ESTC R41051</idno>
+            <idno type="EEBO-CITATION">19603473</idno>
+            <idno type="OCLC">ocm 19603473</idno>
+            <idno type="VID">109166</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52954)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 109166)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1692:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A new plea for the Parliament and the reserved man resolved from the serious consideration of the state of controversie betweene the King and the Parliament : together with severall answeres to some common objections about this subject : as also advice to those who are yet unsettled in their thoughts hereabout / by a Wel-willer to King and Parliament.</title>
+                  <author>Wel-willer to King and Parliament.</author>
+               </titleStmt>
+               <extent>14, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>Reproduction of original in Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term>Great Britain --  Politics and government --  1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:109166:1"/>
+            <head>A NEW PLEA FOR THE PARLIAMENT. AND THE Reſerved MAN reſolved: From the ſerious conſideration of the ſtate of Controverſie betweene the KING and the PARLIAMENT.</head>
+            <head type="sub">Together with Severall Anſweres to ſome common Objections about this SUBIECT. As alſo, Advice to thoſe who are yet unſettled in their thoughts hereabout.</head>
+            <byline>By a Wel-willer to KING and PARLIAMENT.</byline>
+            <p>
+               <seg rend="decorInit">A</seg>S Zeale without Knowledge argues the weakneſſe of the Head; ſo doth Knowledge without Zeale the rottenneſſe of the Heart: the lightneſſe of the Head, and the unfoundneſſe of the Heart, are the two Epidemicall Diſeaſes of this Kingdome: Ignorance and Hypocriſie as they are the greateſt Enemies to Truth and Piety, ſo are they the chiefe cauſes of the Kingdomes miſery; all men would ſceme to be what few men are in truth: but though Diſſemblers are great in number; yet are the upright ſtronger in power: there is nothing that hath more pretended friends and reall enemies then Peace and Truth; though the Heart of the wicked hateth the <hi>Power</hi> yet the conviction of their Head would faine palliate their wickedneſſe with the <hi>Forme</hi> of Godlineſſe: all would weare RELIGIONS <hi>Livery.</hi> but few will obſerve <hi>Religions Lawes;</hi> if Picty be good in profeſſion it is better in practice; but the profeſſion commands almoſt every man, and the practice ſcarce any at all: of the things of this World men had
+<pb n="2" facs="tcp:109166:2" rendition="simple:additions"/>
+rather have the ſubſtance then the ſhadow; but of the things of Heaven, the ſhadow gives generally better content then the ſubſtance; the <hi>forme</hi> rather then the <hi>power</hi> of Godlines: every man by profeſſion will make Chriſt a King; but by practice crowns him with <hi>Thornes;</hi> the Goſpel and the Kingdome have few Enemies in ſhew, but fewer Friends in truth.</p>
+            <p>
+               <hi>The whole Kingdom is divided into two parts, both profeſſing contention for one common Cauſe; every man hath his Sword in his hand, and would fight for God and the Kingdom, but knowes not where to rank himſelfe: Law and Religion, the Kingdome and Goſpell, are the mutuall pleas of each party; who but a villaine will fight againſt his King? who but a Divell will fight againſt his GOD? who but a Rebell, will ſtrike at his King? who but a Raſcall will ſtrike at his Country? A good King is the breath of our noſtrilts, the God of goodneſſe, the life of our ſoules; our Kingdom is divided; ſo ſaith King and Parliament; it cannot long ſo ſtand; ſo faith God and Reaſon: our Kingdom is in danger, ſo ſaith King and Parliament; we muſt not ſit ſtill, ſo ſaith Law and Conſcience: I would defend both, and offend neither, but if I now ſit ſtill I am not a friend to either; here are two Armies each againſt other to which to joyne my ſelfe I know not whether; I am called to help by the one and the other, and therefore I muſt not now be a Newter, they both pre<g ref="char:EOLhyphen"/>feſſe they fight for to preſerve the ſame Religion, the ſame Law; I muſt not judge the heart, what ſhall I doe?</hi>
+            </p>
+            <p n="1">1. For reſolution of this doubt let us conſider theſe 2 parts.</p>
+            <list>
+               <item>Firſt what is this
+<list>
+                     <item>1. Law?</item>
+                     <item>2. Religion?</item>
+                  </list>
+               </item>
+            </list>
+            <p n="2">2. How may I moſt probably judge, which party is cordiall, with whom I ought to joyne my ſelfe?</p>
+            <p>Firſt by Law, as is controverted, is meant, all thoſe former Acts of Parlia<g ref="char:EOLhyphen"/>ment never yet reverſed, together with the Priviledges of Parliament, (the fountain and life of Law) the chiefeſt whereof, is to reverſe, repeale, ordaine and enact what Lawes and Statutes, old and new, they ſhall think fit, for the preſent benefit and welfare of King and Kingdome.</p>
+            <p>This is the Law now in controverſie, <hi>viz.</hi> The Statute Law of the Land, the Power and Priviledge of Parliament, which is the great Inheritance of the Kingdom, and that which doth diſtinguiſh us from ſlaves and vaſſalls.</p>
+            <p>Secondly, by Religion is meant the Doctrine and Diſcipline of the Church of God, as they have, and ſhall finde it agreeable to the word of God.</p>
+            <p>This is that Religion which they both ſay they fight for.</p>
+            <p>
+               <hi>God and the Kingdome; is this the Cauſe? Religion and Law, is this the Quarrell? Piety and Humanity, grace and iugenuity will not admit of an unworthy newtrality. I will fight for God for I haa rather die a believing Chriſtian, then live an Atheiſt, or Papiſt: I will fight for my Country, for I had rather die a free-man, then live a ſlave or vaſſall; but if both Parties fight in the behalfe of the ſame Cauſe, whence is the riſe of the Quarrell?</hi>
+            </p>
+            <p>The Parliament affirmes their Adverſaries to be a Malignant Party, which often apart, and now together do ſtrongly oppoſe the life and power of Religi<g ref="char:EOLhyphen"/>on and Lawes and this is affirmed by the adverſe Party againſt the <hi>Parliament.</hi>
+            </p>
+            <p>
+               <hi>Both affirm the ſame thing, I am where I was, I cannot Iudge the heart, what ſhall I doe.</hi>
+            </p>
+            <p>For further direction herein, conſider the ſecond Part and that is.</p>
+            <p>How may I judge which Party is cordiall, with whom I ought to jonee?</p>
+            <p>For Anſwer hereunto, conſider two things.</p>
+            <pb n="3" facs="tcp:109166:2" rendition="simple:additions"/>
+            <p>Firſt, who and what are the Parties on each ſide.</p>
+            <p>Secondly, what are their practiſes in the managing of their Quarrel.</p>
+            <p>Firſt, for the Parties on each ſide: On the one ſide, we have a lawfull free<g ref="char:EOLhyphen"/>choſen Parliament, conſiſting of the King, Lords and Commons of the Land; (we will not underſtand the King as the head of a Faction) we have moreover all knowne, godly learned Miniſters of the Kingdome, together with all godly conſcieneious People. both Gentry and Commons, of all ſorts, ranks and conditions whatſoever.</p>
+            <p n="2">2. On the other ſide, we have moſt of the Papiſts of the Kingdom many wher<g ref="char:EOLhyphen"/>of are chiefe Commanders, together with the Popiſh partie of Lords, Gentry and Commons, with all the Praelaticall Faction of Biſhops, with their De<g ref="char:EOLhyphen"/>pendants, all Popiſh ſuperſtitious, idle, deboiſt, ſcandalous Miniſters, Prieſts and Cathedrall finging-fellowes in the Land, with divers proclaimed Trai<g ref="char:EOLhyphen"/>tors, once fled from the Juſtice of the Parliament, and now in great power and Office in their Forces: as alſo ſome lately in Rebellion in <hi>Ireland</hi> together with the <hi>quondam</hi> grinding oppreſſing Judges, Pattentees; all Delinquents, ne<g ref="char:EOLhyphen"/>ver Parliament proofe, with many ignorant, ſilly and not a few curling, ſwea<g ref="char:EOLhyphen"/>ring banning blaſpheming wretches of all qualities from the Kings Court, to the Countrey Cart. Theſe are the Parties on each ſide.</p>
+            <p>
+               <hi>Are theſe the Parties? Malignity in the one party is as hard to be believed as Since<g ref="char:EOLhyphen"/>rity in the other; that the one party ſhould intent miſchiefe, and the other preſervation to Law and Religion; it is hard to ſay which is the greateſt wonder, that there ſhould ſuch a generall Apoſtacy from Religion, and morality to baſeneſſe, and impiety, as is implied in the Parliaments party, was never knowne, no not in the dayes of</hi> Julian: <hi>and ſuch a gene<g ref="char:EOLhyphen"/>rall converſion, from prophanneſſe, and malignity, to grace and ingennity as is implied in the ſecond party, was never knowne, no, not in the dates of</hi> Peter, <hi>that ſuch an Apoſtacy of the one party, and ſuch a converſion of the other, ſhould at once meet together, ſeemes as ſtrange, as if the Inhabitants of Heaven and Hell, ſhould change qualities and habitati<g ref="char:EOLhyphen"/>ons; well, once Angells, are now Divels, once Divells, are now Saints the later daies ſhall produce great matters of this nature, the firſt ſhall be laſt, the laſt ſhall be firſt, I am ſtill where I was, how ſhall I judge?</hi> For further direction herein:</p>
+            <p>Conſider ſecondly, having ſeene the Parties; what are their practiſes in the managing of the Controverſie; here let us obſerve two things.</p>
+            <p>Firſt how each Enemy hath beene detected to other.</p>
+            <p>Secondly, how each Enemy hath proceeded againſt other.</p>
+            <p>Firſt, the Parliament Party &amp;c. by the ſeverall complaints, cries and Peti<g ref="char:EOLhyphen"/>tions of the People for redreſſe hath found out their Adverſaries, utterly mal<g ref="char:EOLhyphen"/>lignant againſt Religion and Law.</p>
+            <p>Religion, in Doctrine, in Diſcipline.</p>
+            <p>In Doctrine, they arfirme and appeale to the knowledge and experience of al men to give teſtimony to the truth hereof, that their Adverſaries in the chiefe and prime Leaders, have for a long ſeaſon endeavoured to undermine the fun<g ref="char:EOLhyphen"/>damentall points of the Proteſtant Religion, by ſilencing our godly, learned and painfull Miniſters by corrupting our Univerſities with Popiſh and Armi<g ref="char:EOLhyphen"/>nian Governours in moſt Colledges by placing ſuperſtitious, idle, ſcandalous ignorant, non reſident and non-preaching Miniſters, throughout the King<g ref="char:EOLhyphen"/>dome; by committing the power of Printing and the Key of the Preſles, in<g ref="char:EOLhyphen"/>to
+<pb n="4" facs="tcp:109166:3"/>
+the hands of Popiſh, Praelaticall, Arminian, Domeſtick Chaplaines: by to<g ref="char:EOLhyphen"/>lerating, and countenancing preaching, and printing Popiſh, Arminian, and licentious Tenets: that the Pope is not Antichriſt, nor Rome Babilon; with the like Popiſh Tenets: that men may fall from grace, and be for heaven to day, and for hell to morrow, with the like Arminian Tenets: That Sunday is no Sabbath, and men may ſpend it in paſtimes and ſports with ſuch like licenti<g ref="char:EOLhyphen"/>ous Tenets, &amp;c.</p>
+            <p>Thus they have been malignant againſt the Doctrine of the Church.</p>
+            <p>In Diſcipline:</p>
+            <p>Secondly, they likewiſe affirme (with the like appeale) to the knowledge of all men, that their adverſaries have been alwayes malignant unto Religion, as in Doctrine, ſo in Diſcipline; by preſcribing altering, and corrupting formes of prayer in the Church, by turning Tables into Altars, and placing greater degree of holineſſe in one part of the Church than another, by command in cringings, bowings, duckings: by introducing many guegaws and ridiculous Innovations of copes, pictures, crucifixes, croſſes candle-ſtickes, tapers, <hi>&amp;c.</hi> into the worſhip of God. Thus they ſay, they have been malignant againſt Reli<g ref="char:EOLhyphen"/>gion, in Doctrine, in Worſhip,</p>
+            <p>Secondly, they have diſcovered their adverſaries malignant againſt Law, by endeavoring to bring in an Arbitrary government, as is evident in in the charge of <hi>Srafford</hi> and <hi>Canterbury,</hi> prime <hi>quondam</hi> agents of this preſent faction, which hath had a being, and a working in <hi>capite</hi> long agoe: and we know that <hi>operaetio alicujus rei conſeq<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>tur eſſere<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>;</hi> by pleading for and preſsing Ship moneys, coat and conduct moneys. Arbitrarie taxations Monopolies, Pat<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, almoſt for every thing by re<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>arding Parliaments (the onely remedy of the Kingdomes miſerie) before we had one by endeavouring and bringing to paſſe the diſſo<g ref="char:EOLhyphen"/>lution of them when we had any; and now the deſtruction of this preſent Par<g ref="char:EOLhyphen"/>liament which they connot diſſolve:</p>
+            <p>Thus the one party hath diſcovered their enemy.</p>
+            <p>Secondly, the other Party affirme the ſame againſt the Parliament &amp;c. <hi>viz.</hi> that they are enemies unto Religion, and unto Law; unto Religion here they alleadg nothing in poyn of Doctrine, but for diſcipline, they ſay that they goe about to al<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er and change the well order'd Government of the Church by Biſhops with their dependants, a Government honour'd for ſo many hun<g ref="char:EOLhyphen"/>dred yeares antiquity with ſo many godly and learned Divines, which hath made this Church famous in the world, with ſo many Martyrs, and holy men, &amp;c. Moreover, they affirme, that their Adverſaries now diſcourage Learn<g ref="char:EOLhyphen"/>ing, favour ignorant fellowes, Preachers in Tubs. &amp;c. countenance Brow<g ref="char:EOLhyphen"/>niſts. Anabaptiſts, Schiſmaticks, Separatiſts, Sectaries, &amp;c Thus they are Ma<g ref="char:EOLhyphen"/>lignant againſt Religion.</p>
+            <p>Secondly they ſay; they are malignant againſt Law going about to bring in an Arbitrary Government by voting and making Ordinances, as binding, without the King and by vertue thereof, to ſeize upon what is the Kings; therefore the Subjects may now looke to themſelves, by compelling men, that are not willing <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o aſsiſt in this quarrell, by demanding the twentieth part of their Eſtates, by voting men Malignants who have not and doe not accor<g ref="char:EOLhyphen"/>ding to their Eſtate, contribute freely to their aſsiſtance, by ſeizing upon their
+<pb n="5" facs="tcp:109166:3" rendition="simple:additions"/>
+Horſes, Armes, Plate, Money, caſting their perſons into Priſons, &amp;c.</p>
+            <p>Thus are they malignant againſt the Lawes of the Land; and thus each Partie hath found out his Enemy.</p>
+            <p>
+               <hi>Is this thy caſe? Alaſſe poore</hi> England, <hi>thy wound is deepe, thy remedy dangerous; why haſt thou taught thy Children no better? Doe all plead for truth? Doth Truth plead for all? Truth is one, and ſo are her Children; how is it they are now fallen out? Truth makes peace, Errour contention: all is not well; where is the fault? good is the Cauſe and one party with it; each is not right: one party muſt fall; I gueſſe which it is; I know what I think, but I may be deceived; Ile ſuſpend my opinion till know their pro<g ref="char:EOLhyphen"/>ceedings.</hi>
+            </p>
+            <p n="2">2. For further ſatisfaction herein, conſider, how each Party, having diſco<g ref="char:EOLhyphen"/>vered, purſues their Enemy.</p>
+            <p>Firſt, the Parliament, &amp;c. have purſued the Cauſe of Religion, in point of Doctrine, after this method, by opening the mouthes of godly, learned, and ſilenced Miniſters, by granting liberty without interruption, for the frequent and powerfull preaching of the Word, wherever men will maintaine it; by promiſing and preparing for the removall and juſt puniſhment of wicked ſcan<g ref="char:EOLhyphen"/>dalous Miniſters, by diſcountenancing Popiſh Arminians, and encouraging knowne, godly, and Orthodox Preachers.</p>
+            <p>Secondly, they purſue the Cauſe of Religion, in point of worſhip, after this Method; by prohibiting all Popiſh ſuperſtitious Innovations, by tolera<g ref="char:EOLhyphen"/>ting the bare omiſſion of Ceremonies, confeſſed to be unneceſſary, and but indifferent things; and therefore not to be preſt upon any men whoſe conſci<g ref="char:EOLhyphen"/>ences cannot beare them; by reſolving upon the beſt means they can think of, to find out the will of God concerning his worſhip, being very doubtfully diſputed amongſt the godly and learned Miniſters <hi>viz</hi> the chooſing of an aſ<g ref="char:EOLhyphen"/>ſembly of godly and learned Miniſters of different judgements in that point to ſtudy, diſpute and the beſt way they can to find out the will of God herein, whoſe power is onely declarative and therefore can there be no prejudice by the overtopping number of any of one judgement by voting the aboliſhing of Biſhops, being found a chiefe ſpring of all our troubles, in the three King<g ref="char:EOLhyphen"/>domes: and therefore this Kingdome hath as much reaſon with joy and gra<g ref="char:EOLhyphen"/>tulation to accept of this Act and the King to confirme it here in this King<g ref="char:EOLhyphen"/>dome, as in the Kingdome of <hi>Scotland</hi> and our King in <hi>Scotlans</hi> had in the ſame caſe and upon the ſame grounds.</p>
+            <p>Thus they have purſued the Cauſe of the Kingdome in reſpect of Religion.</p>
+            <p>Secondly in reſpect of Law, they have taken this courſe, by taking notice of all theſe incurſions, which have been made upon the Law, by illegall taxati<g ref="char:EOLhyphen"/>ons. and oppreſſions of the Subjects, by finding out and removing the roots, ſprings and cauſes thereof, as the Star chamber, high Commiſſion, &amp;c. by diſcovering, and bringing to condign<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> puniſhment the underminers of Law, whereof there have been Nobles Biſhops Lawyers, Judges, Pattentees. Delin<g ref="char:EOLhyphen"/>quents of all ranks ſome wherof have fled away beyond Seas, and others into divers parts of this Kingdom, have indeavoured to raiſe up forces and ſtrength to over-aw, and overthrow this preſent Parliament, and have brought t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is de<g ref="char:EOLhyphen"/>ſigne to great perfection; all which is known and evident in the ſight of all men:
+<pb n="6" facs="tcp:109166:4"/>
+For the ſuppreſſing of which power, and the further prevention of their in<g ref="char:EOLhyphen"/>creaſe by forreigne force; the Parliament hath endeavoured the beſt way they can, by ſecuring the Ships and Sea-Ports of the Kingdome in the hands of a faithfull and truſty Admirall, and other Officers, by diſarming knowne Pa<g ref="char:EOLhyphen"/>piſts and Malignants intereſted and active in the Quarrell againſt them, and by raiſing up an Army for the ſuppresſing of that Malignant party, raiſed up for the ruine of Religion, and Lawes of the Kingdome.</p>
+            <p>Thus the one Party hath managed their <hi>Controverſie</hi> againſt their Adverſary.</p>
+            <p>Secondly, the other Party hath proſecuted the purity of <hi>Religion</hi> before the <hi>Parliament</hi> in point of Doctrine; by advancing, and encouraging <hi>Arminian</hi> and Popiſh fellowes, and Tenets throughout the Kingdome as all men know.</p>
+            <p>Secondly, in point of worſhip; by introducing, and maintaining many fooliſh, ſuperſtitious, and ridiculous Ceremonies, and Innovations, as is likewiſe hid from no man, and their method, ſince they have gotten into an Army, in the proſecuting the purity of Religion, is by curſing, banning, blaſpheming, ſwea<g ref="char:EOLhyphen"/>ring God ſinke me, God dam me, the Divel ram me &amp;c. with ſuch like horrid oathes, as I tremble to think of; together with mocking, jeering, ſcoffing and deriding at thoſe who make conſcience of their wayes, calling them Puritans, Round-heads, Schiſmaticks, Separatiſts, Browniſts, Sectaries, &amp;c. the very name of an honeſt man, that will not ſweare, lye and prophane the Lords day, is ground enough for their cruell and inhumane dealings againſt them, where ever they come. Thus they proſecute the purity of Religion.</p>
+            <p n="2">2. They have endeavoured to maintaine the life and power of the Law, Li<g ref="char:EOLhyphen"/>berty of the Subject, and Priviledge of Parliament before the Parliament by all kind of injury, againſt Law, Subjects and Parliaments, as all men know: and ſithence the Parliament by diſarming the Countries under the pretence of (a moſt illegall) Commisſion of Array, which none of the Lawyers and Judges of the Kingdome dare avouch; but wee muſt believe the Kings word for it, though he ſay he is no Lawyer: well, the Country's diſarm'd, and their Arms put into the hands of Papiſts and Malignants now in the Army, hereby they are diſinabled to defend themſelves, but now muſt quietly ſuffer themſelves to be plunder'd, rob'd and undone, the Countreys aſſeſt to pay ſo much now and ſo much then; and an Army on foot to compell them to pay it, (as abſolute tyrranny as any is in Turkey) and a taſt of the Law of the Land, and Liberty of the Subject, which we are like to have hereafter, if this Partie get head: Againe, they (having by wicked Counſell gotten the King from his Parlia<g ref="char:EOLhyphen"/>ment, and ſo ſheltring themſelves under him) have prevailed with him, with<g ref="char:EOLhyphen"/>out the leaſt pretended cauſe, to put honeſt and blameleſſe well affected Juſti<g ref="char:EOLhyphen"/>ces of Peace, out of the Commiſſion, throughout the Kingdom, (a ſad <hi>Omen</hi> of the Subjects good to any diſcerning eye) and put in known Malignants in their roome, to prick men for Sheriffes, throughout the Kingdome, knowne like<g ref="char:EOLhyphen"/>wiſe to be Malignants &amp;c. and for the Priviledges of Parliament, they main<g ref="char:EOLhyphen"/>taine theſe by declaring and publiſhing both Houſes guilty of high treaſon, and the Earle of Eſſex General of the Forces, raiſed for the defence of King, Parliament, and Kingdome, a Traitor, and all his asſiſtants, (comprehending thereby the Parliament) to be Rebels and Traitors; by prevailing with the King, to caſt off his great Councell the Parliament, in all matters of Church,
+<pb n="7" facs="tcp:109166:4"/>
+and State, to keep from the judicature of the Parliament, known Traitors, and Delinquents, accuſed by the Parliament, the Priviledges of the Parliament have been maintained, by abuſing, beating and ſcorning meſſengers ſent from the Parliament, by calling thoſe that ſtand for the good of the Kingdome, and Parliament, Rogues, Parliament dogs, &amp;c. in all theſe things, and in ma<g ref="char:EOLhyphen"/>ny more of this nature, doubtleſſe, the Law of the Land, the Liberty of the Subject, the Priviledges of Parliament, are aim'd at, and endeavoured with all ſincerity, and truth of heart, and let any man of the meaneſt capacity judge the contrary.</p>
+            <p>Thus wee ſee how each Party hath diſcovered, and purſueth their Enemy.</p>
+            <p>
+               <hi>Is this the cauſe? are theſe the Parties? are theſe their practiſes? what but ſtupidity can now be deceived? Will Traitors fight, for juſtice? Delinquents, for the Law? the thiefe, for the halter? Papiſts, for purity of Religion? How is the World turn'd upſide downe? is Religion preſerved by tranſgreſſion? Piety, by iniquity? Purity, by Popery? then is the Divell become a convert. Is the law maintained by illegality? the Subject by oppeſſion? the Parliament by deſtruction? then are the Turkes as free as the Engliſh. Shall I now queſtion which ſide is right? then let me queſtion my judgement and reaſon. I will fight for my God, who gave me my being; I will fight for my Countrey, who gave me my breeding: God and my Countrey gave what I have; God and my Countrey ſhall have what they gave: Religion binds me unto God, Duty to my King, Nature to my Countrey: If the King calls me to fight againſt, and the Parliament for God and my Countrey; I can<g ref="char:EOLhyphen"/>not obey my King, I dare not deny the Parliament. That this is our caſe, is as cleare as the Sun; let us hears what Objections can ſay to the contrary.</hi>
+            </p>
+            <p>Objections are ſome in reference to the King ſome in reference to the Par<g ref="char:EOLhyphen"/>liament, firſt in reference to the King.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>1</label> Firſt, it is objected that the King hath made many Proteſtations, ſtrong aſſeverations, fearefull imprecations againſt him and his, if ever he in<g ref="char:EOLhyphen"/>tends the leaſt wrong, but all good both to Religion, Law and Parliament; and ſhall we not believe the King?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> Firſt the Law of God, Nature and Nations doth not binde mee to believe any thing againſt experience (though affirmed by a King and upon no better ground than his bare affirmation.</p>
+            <p>Secondly, we queſtion not the Kings intent againſt God and the Kingdome; but we know that the Army raiſed up by his Authority is for the ſubverſion both of Religion and Lawes; and that thoſe that are now the Kings Counſel<g ref="char:EOLhyphen"/>lours, have alwayes and now doe endeavour the rooting up of both.</p>
+            <p>Thirdly the King may be deceived by falſe Prophets and wicked Lawyers, who may ſuggeſt this to be Religion, and that to be Law, which is nothing but Popery, and illegality, and ſo he may proteſt, and that from his heart (being deceived) that he intends nothing more than ſuch Religion and Lawes.</p>
+            <p>Fourthly, it is not unknowne what Proteſtations were made to maintaine Religion and Law, the Property of the Subjects, &amp;c. even in the height of all former Popiſh Innovations and illegall taxations.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obj. </seg>2</label> Another Objection is, that the King pleads perſonall wrongs in ta<g ref="char:EOLhyphen"/>king away his proper Rights his Cinque-Ports, his Navy, his Magazine bought with his owne money, which are his owne as properly as any mans Jewells or Plate is his owne.</p>
+            <pb n="8" facs="tcp:109166:5" rendition="simple:additions"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> Firſt the King had nothing of this kind, but either it was committed to his truſt by the Kingdome, or purchaſed by his moneys: if committed to him by the Kingdome, it was for its preſervation, not for its deſtruction: if ſo be that that was committed to the King by the Kingdome for its preſervati<g ref="char:EOLhyphen"/>on, is it by the Votes and Apprehenſions of the repreſentative Body of the Kingdome (the beſt Judges herein) like to be perverted to its ruine and deſtru<g ref="char:EOLhyphen"/>ction? the preſervation of the Kingdome being the chiefeſt Law, doth dictate unto the Kingdome its owne ſecurity, by ſeizing upon thoſe Weapons, Armes, Magazines, &amp;c. which (prepared for their ſecurity) are now intended for their owne miſery.</p>
+            <p>Secondly, if it were bought by the Kings proper moneys, it was bought for the good or hurt of the Kingdome, if for the hurt of the Kingdome, the re<g ref="char:EOLhyphen"/>preſentative Kingdome, that knowes no Law, but <hi>ſalutem populi,</hi> apprehending our miſery ought to prevent it by ſeizing upon their Ammunitions; for if a Maſter of a Family, by Neighbours, ſhould bee ſtirr'd up againſt his Family, even to kill and murther his owne Famaly<g ref="char:punc">▪</g> is it not lawfull for his ſervants to ſeize upon thoſe weapons which he had bought for the ſame purpoſe, and pre<g ref="char:EOLhyphen"/>vent ſuch a deſigne?</p>
+            <p>Secondly, the Parliament is the Kings greateſt Counſell, by whoſe advice he ought to be guided; if he will ſuffer himſelfe to be ruled by a knowne Malig<g ref="char:EOLhyphen"/>nant Partie againſt the Parliament, and by this meanes they procure the ſtrength of the Kingdome into their owne hands to ruine and deſtroy the Par<g ref="char:EOLhyphen"/>liament: is it not lawfull to prevent it by ſecuring the Ammunition? Juſt ſo is our caſe as may be at large ſhewed.</p>
+            <p>Thirdly, the <hi>Parliament</hi> is to judge both what is good for the King and King<g ref="char:EOLhyphen"/>domes welfare: if Enemies to the King and Kingdome ſhall by ſecret inſinua<g ref="char:EOLhyphen"/>tions get into his favour and ſuggeſt thoſe Deſignes which will utterly undoe the Kingdome, and the King ſhall with all Preparations addreſſe himſelfe, ac<g ref="char:EOLhyphen"/>cording to theſe ſuggeſtions; ought not the <hi>Parliament</hi> (if posſibly, out of loy<g ref="char:EOLhyphen"/>alty to the King, and love to the Kingdome) to prevent this by ſeizing upon thoſe weapons, that may further the ſame?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>3</label> Another objection is, that the ſetling of the <hi>Militia</hi> is not in the <hi>Parliaments</hi> power, and that the <hi>Parliament</hi> cannot doe it without the King.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> There have been ſufficient Anſwers for the legality of it by the <hi>Par<g ref="char:EOLhyphen"/>liaments</hi> Declarations alreadie: but now for the rationality and equity of it, much may be ſaid: the King hath been ſought unto for his conſent therein, and will not not grant it; what muſt be done?</p>
+            <p>Either the King muſt ſettle it without the <hi>Parliament</hi> or the <hi>Parliament</hi> with<g ref="char:EOLhyphen"/>out the King; the <hi>Parliament</hi> cannot conſent to the King to ſettle it without them; becauſe he will not hearken unto their advice (as he ſhould) but unto the advice of thoſe who will ſettle it to the Kingdomes ruine: for let men of any indifferent judgement give out their opinions into whoſe hanes the <hi>Mili<g ref="char:EOLhyphen"/>tia</hi> had beene ſetled and what the iſſue thereof had been before this day, if the King (miſ-led by ſuch a Counſell as he is) had ſettled it, ſurely the Commisſi<g ref="char:EOLhyphen"/>oners of Array will dictate to any diſcerning eye what kind of parties they ſhould have been<g ref="char:punc">▪</g> therfore the <hi>Parliament, neceſſitatis cauſa, &amp; ad ſalutem populi,</hi> (their only rule) muſt ſettle it without the King.</p>
+            <pb n="9" facs="tcp:109166:5" rendition="simple:additions"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>4</label> The lawfulneſſe of taking up Armes in this caſe is very queſtiona<g ref="char:EOLhyphen"/>ble, becauſe it ſeemes to be againſt the King and many Preachers both by their Sermons and Writings determine it Rebellion and utterly unlawfull: and that wee ſhould ſuffer, rather than reſiſt, according to the practice of holy Mar<g ref="char:EOLhyphen"/>tyrs in Queene <hi>Maries</hi> dayes, &amp;c. and the very Cavaliers demand with what conſcience can we take up Armes againſt the King &amp;c.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> Firſt, it would not be amiſſe to obſerve thoſe Preachers, who are ſo carefull to reſolve doubtfull Conſciences in this caſe, after this manner; ſurely if we note how tender they have beene formerly unto weake and ſcrupulous Conſciences, we have more reaſon to ſuſpect, that their deſigne is rather to raiſe up and make ſcruples then to anſwer them at all.</p>
+            <p>Secondly, it is good to obſerve all what intereſt they have in the Cauſe it ſelfe; ſurely if the Cauſe be againſt Popery and Praelacie it is no mervaile that the Popiſh and Praelaticall faction (who knowes little Conſcience out of their owne Cauſe) pleads conſcience ſo much; enquire of them whether it be law<g ref="char:EOLhyphen"/>full to joyne with the worſhip of God corrupted with ſuperſtitious and hu<g ref="char:EOLhyphen"/>mane inventions; they wll tell you you are more preciſe than wiſe. and what need you be ſo ſcrupulous, &amp;c. but now they are of another mind, and it is ob<g ref="char:EOLhyphen"/>ſervable, that men of no Religion or Conſcience in Gods Cauſe would faine make Religion and Conſcience plead for them in their owne Cauſe.</p>
+            <p>Thirdly It is good alſo to ſee how carefull theſe men have been to informe the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing in his duty (having the beſt opportunity hereunto) and in matters of Conſcience about this Warre; no in this caſe, as in the controverſie with our Brethren the Scots, they ſay to our King as the 400. falſe Prophets ſaid to <hi>Ahab</hi> goe up to <hi>Ra<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ot<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Gilead</hi> and proſper; and it is obſervable alſo, that theſe men (who pretend ſo much zeale are moſt ſeditious factious and ſchiſmaticall fellowes in the Kingdome and chiefe cauſers of the preſent diviſions amongſt us.</p>
+            <p>Fourthly, Thoſe Preachers that plead it to be Rebellion to take up Armes in this Cauſe againſt the King (as they pleaſe to miſcall it) doe not plead it re<g ref="char:EOLhyphen"/>bellion in the States of <hi>Holland</hi> nor in the Prince or Orange to be the Rebell generall againſt the King of <hi>Spaine,</hi> although they take up Armes againſt him, and although we have every way as much warrant from the Law of God, our Nation and Nature it ſelfe ſo doe as they have, they know this Doctrine is re<g ref="char:EOLhyphen"/>pugnant to their deſignes and will not pleaſe.</p>
+            <p>Fiftly, as for their inſtances of holy Martyrs in the time of Queene <hi>Maries</hi> dayes (after whoſe example they would have us yield pasſive obedience, and not reſiſt as they themſelves have followed the ſteps of thoſe who did perſe<g ref="char:EOLhyphen"/>cute theſe holy Martyrs ever ſince to their power) they are to little purpoſe; for the Lawes and Statutes of the Kingdome are altered and reverſed which gave life unto this Argument: and that which was lawfull then is unlawfull now, and that which is lawfull now, was unlawfull then; for which we may thanke a Parliament: and in fighting for the Parliaments Cauſe, wee fight not againſt, but to defend Authority, and for the King and not againſt him, having what Authority he hath confirmed and eſtabliſhed by the <hi>Parliament.</hi>
+            </p>
+            <p>Sixtly, there have beene ſufficient Anſwers to this Objection, to prove the lawfulneſſe of taking up Armes in this Cauſe, for the ſatisfaction of truly ten<g ref="char:EOLhyphen"/>der
+<pb n="10" facs="tcp:109166:6"/>
+Conſciences, by divers Bookes made by godly and learned Miniſters, <hi>viz.</hi>
+            </p>
+            <p>Booke intituled <hi>Anticavalier ſ<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e,</hi> made by Mr. <hi>Iohn Goodwin,</hi> and Mr. <hi>Bur<g ref="char:EOLhyphen"/>aough</hi> his Poſtſcript to his laſt Booke upon the name of the Lord of Hoſts; in Anſwer to Doctor <hi>Ferne &amp;c.</hi> Beſides many other Bookes and Sermons of this kinde, where men might have ſatisfaction in abundance; &amp;c.</p>
+            <p>Seventhly, as for an Anſwer to the Cavaliers themſelves, who demand with what Conſcience we can fight againſt the King as they are taught to miſcall it) they are capable of no other but this; that when they will ſatisfie you with what Conſcience they will drink and be drunke whore and bee damn'd, and chooſe rather to goe to Hell with their Comrades, than to Heaven with the Round-heads, with what conſcience they blaſpheame God, curſe, ſweare, rob, plunder, kill, murther, &amp;c? Then will you tell them, with what conſcience you take up Armes in this Cauſe, ſurely. if the tongues of all the blaſphemers amongſt them were bored with an hot iron, and of the Swearers were clipt, you ſhould hardly from the greateſt to the leaſt of them underſtand whether they ſpeake Engliſh in asking, with what Conſcience you doe ſo.</p>
+            <p>Theſe were the Objections concerning the <hi>King.</hi>
+            </p>
+            <p>There are likewiſe Objections concerning the <hi>Parliament.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>1</label> The King is not with them, nor many Lords and Commons, &amp;c. This hath beene ſuggeſted if it were poſſible to blind, poore ignorant people and to poſſeſſe them with a conceit that therefore they are no Parlia<g ref="char:EOLhyphen"/>ment, though in plaine termes they will not affirme ſo much.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> VVell, what then? are they no <hi>Parliament?</hi> th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y will not <hi>t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tidem verbis</hi> affirme this: they have more wit<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> but they would have others make that inference; for they buz this abroad, that the greateſt part of the <hi>Parliament</hi> are with the <hi>King,</hi> and many now in the <hi>Parliament</hi> doe not conſent to the Votes that are paſt; and yet they put forth their Votes. Ordinances &amp;c. in the name of both Houſes of <hi>Parliament;</hi> and therefore they would have you make the inference, <hi>viz.</hi> that they are not the <hi>Parliament;</hi> therefore it is not amiſſe to anſwer this tacite and ſilent Objection; for Anſwer therefore.</p>
+            <p>Firſt they were a <hi>Parliament,</hi> none will deny that.</p>
+            <p>Secondly, an Act hath been paſt that they ſhall not be diſſolved but by an Act made in <hi>Parliament</hi> by the major Vote; and is there ſuch an Act yet paſt? no man can prove that.</p>
+            <p>Thirdly though many are not in the <hi>Parliament,</hi> which are Members, vet they ſhould be there, and they have been ſummoned to be there: and it is their delinquency and careleſeneſſe of, or malignity to their Countries good, that they are not there; and ſome of them moſt unworthily and unnaturally are in actuall War againſt the <hi>Parliament</hi> are they no <hi>Parliament,</hi> becauſe ſuch as theſe are abſent?</p>
+            <p>Fourthly, the <hi>King</hi> doth alwayes call them his Houſes of <hi>Parliament,</hi> and therefore who can queſtion it? but the truth is, they ſuggeſt many things to deceive the common people, as if we were the only Nation of Fooles in the world.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>2</label> Some furious ſpirits in the Parliament compell the reſt to doe what is done, and thoſe are put out in name of the Parliament &amp;c.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> Firſt, doth not this caſt an imputation upon the Nobility, and the
+<pb n="11" facs="tcp:109166:6" rendition="simple:additions"/>
+greateſt part of the commons, of weakneſſe, if not of abſolute folly, that they ſhould be led by a few factious ſpirits in all their <hi>Votes</hi> and determinations?</p>
+            <p>Secondly, were not the unjuſt and illegall diſſolutions of Parliaments grounded upon exceptions againſt ſome particular Members, under the name of a few factious and ſeditious perſons? as all men know.</p>
+            <p>Thirdly, ſuppoſe that the reſt were adviſed and miſ-led by the Counſells of thoſe few, againſt their owne judgements who are called factious and ſediti<g ref="char:EOLhyphen"/>ous (which can never be granted untill a Parliament be choſen of ſuch as will believe it) are they not the Votes of the Parliament, when the major part ſhall paſſe them? truly, <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>argues they want matter of accuſation that make uſe of ſuch ſilly ſhifts as there are.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>3</label> The Parliament goes about to alter Religion, to bring in Brow<g ref="char:EOLhyphen"/>niſme, Anabaptiſme, &amp;c.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> Firſt, it is falſe for none can accuſe them in reſpect of the Doctrine of the Church of England which is the maine of Religion; and ſeldome are men ſaid to alter Religion but in point of Doctrine.</p>
+            <p>Secondly, it is reformation of government (confeſt on all hands to bee cor<g ref="char:EOLhyphen"/>rupted) which they endeavour; and if there be no need of Reformation, why were there ſo many complaints made hereabout?</p>
+            <p>Thirdly, ſuppoſe they ſhould goe about to alter Religion (which we will ne<g ref="char:EOLhyphen"/>ver grant, except they were ſuch as their accuſers) who could hinder them? may not they (if they ſee cauſe) alter Religion aſwell as former Parliaments?</p>
+            <p>Fourthly, as for thoſe ſcandals of their intentions to bring in Browniſme, and Anabaptiſme. &amp;c. it is notoriouſly knowne that under the name of Brow<g ref="char:EOLhyphen"/>niſt, and Anabaptiſt. by the Praelaticall Party (the Oracles of the Court) are alwayes underſtood all ſuch who dare not out of Conſcience ſubmit to thoſe unwarranted Ceremonies by them introduced into the worſhip of God. Men that will not ſweare and lie, blaſpheame Gods name and prophane his day, are the Sectaries, Browniſts, and Anabaptiſts of theſe times.</p>
+            <p>Laſtly theſe men either underſtand not what Anabaptiſts are; or elſe ſpeak very unadviſedly in charging the Parliament with Anabaptiſme: for one of the maine points of Anabaptiſme, is that no man ought to take up Armes in the cauſe of God at all, but rather to ſuffer, to plead and contend for the truth by no other weapon than <hi>lachrymis &amp; precibus,</hi> and if the Magiſtrate ſhould take away our Religion, yea cut our throats in that cauſe, we muſt pa<g ref="char:EOLhyphen"/>tiently ſubmit, &amp;c. Now if we conſider what Doctrine of this kind the Prae<g ref="char:EOLhyphen"/>laticall Party have lately broached abroad, they may better learne to charge Anabaptiſme.</p>
+            <p>Laſtly, Conſider which of theſe two parties are moſt likely to goe about to alter Religion, either that party that conſiſts of knowne Orthodox, Godly and Religions men, whoſe judgements and practiſes have alwayes been towards pi<g ref="char:EOLhyphen"/>ety and purity? or that party which conſiſts of the Popiſh and Arminian fa<g ref="char:EOLhyphen"/>ction? and whereunto all the Papiſts of the Kingdome perſonally and vertu<g ref="char:EOLhyphen"/>ally come to yeeld their aſsiſtance: which is the very case of the adverſe par<g ref="char:EOLhyphen"/>ty againſt the Parliament; that there is a going about to alter Religion by them is evident and therefore if Popery be worth fighting for let them not be aſhamed of it, but let them ſpeak plainely by their words, as well as their acti<g ref="char:EOLhyphen"/>ons:
+<pb n="12" facs="tcp:109166:7"/>
+but the truth is, if they ſhould doe ſo, they could not procu e ſo many to help the whore as they do.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>4</label> Another objection concerning the Parliament is this: That they goe about to bring in Arbitrary government; to impoſe taxations upon the Subjects without the King; to demand the 20th. part of mens eſtates; to ſeize upon their Armes, Houſes, Moneyes, Plate, &amp;c. and all without the Kings conſent.</p>
+            <p>
+               <hi>They pleaded for Property; loe where is Property?</hi>
+            </p>
+            <p n="1">1. We have committed unto them all that we have; to be diſpoſed of for the publique good as being confident of their love unto us; which we never did to the King: We have committed unto them the ſafety of the Kingdome, and that is the Rule they ſhould walke by (if they diſcharge that truſt committed to them) ſuppoſe the King miſled by wicked Councell, ſhould make Warre againſt his Kingdome; the Parliament muſt endeavour to preſerve the King<g ref="char:EOLhyphen"/>dome; this they cannot doe, but by forces raiſed to that purpoſe; and this will require moneys and the King will never grant moneys to bee raiſed for any ſuch defigne, will he thinke you? If the Parliament hath nor power ther<g ref="char:EOLhyphen"/>fore to impoſe raxations to raiſe moneyes to maintaine the Warres, for the preſervation of the Kingdome eſpecially when men will not voluntarily give their aſsiſtance; then is the Kingdome without a Remedy in ſuch caſes, and ſo a Parliament is but a meere cipher and of no uſe.</p>
+            <p n="2">2. Suppoſe that a wicked faction ſhould counſell the King to ſet up <hi>Prerega<g ref="char:EOLhyphen"/>tive</hi> above <hi>Law,</hi> and to make his will the Law of the Land; and they tell him he hath but the name, and not the power of a Prince, except he doth ſo: Well, it is replyed this cannot be done except that power be conterred up on him by Parliament otherwiſe the People wil not beare it. They adviſe him further to call a Parliament and tell him they will uſe ſuch meanes for the election of ſuch throughout the Kingdome which ſhall be willing to ſuch a deſigne: well the King calls a Parliament their deſign in election failes; this Parlia<g ref="char:EOLhyphen"/>ment now called ſeeke not the ſubverſion but the confirmation of the Law of the Land Liberty of the Subjects &amp;c. Well theſe wicked Councellours ſug<g ref="char:EOLhyphen"/>g<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>r unto the King, to take away five or fix at a time of the chiefe Members (whom they conceive to ſtand ſo much againſt this deſigne) under pretence of accufing them of high Treaſon &amp;c ſo that the reſt may feare, and yield to his well: well this Councell is taken but the Parliament will not part with their Members in any ſuch ill g<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>il way; what muſt be done now? well, they tell the King they will raiſe ſome Forces for they are many and great Per<g ref="char:EOLhyphen"/>ſons, and if the King will be with them in this deſign they have a thouſand lies to deceive the people; the Counſeil is taken an Army raiſed, they grow big, and appeare ſtrong; if the Parliament now hath no power to tax the King<g ref="char:EOLhyphen"/>dome without the King in this caſe to raiſe moneys to maintaine an Army for its defence, then is the Kingdome utterly undon.</p>
+            <p n="3">3. The Army raiſed up againſt the Kingdome conſiſts of our owne unna<g ref="char:EOLhyphen"/>turall Country-men and the maintenance thereof hath an influence through<g ref="char:EOLhyphen"/>out the Kingdome; it concerneth therefore the Parliament to finde out and Conſure Delinquen's herein Now having a long time required voluntary aſ<g ref="char:EOLhyphen"/>ſiſtance from the Subjects for the defence of the Kingdome, they Vote (as very
+<pb n="13" facs="tcp:109166:7" rendition="simple:additions"/>
+well they may, being the onely Judges in this caſe) thoſe to be Delinquents that have not lent the 20th. part of their Eſtate, and directly or indirectly to aſſiſt the adverſe Party of our unnaturall brood, who endeavour the deſtru<g ref="char:EOLhyphen"/>ction of the Kingdom and I hope in ſuch caſes at leaſt they may cenſure ſuch Delinquency, and ſeize upon their Arms, Horſes, Moneys, and Plate, and ſe<g ref="char:EOLhyphen"/>cure their perſons, leſt they prove our ruine and deſtruction.</p>
+            <p n="4">4. Let all men conſider, whether the Subjects good and benefit be the ground of all thoſe cautions and caveats concerning the Parliament, which we have from many Declarations &amp; Expreſſures ſet forth under the Kings name; ſure<g ref="char:EOLhyphen"/>ly if we look back upon the demands of no leſſe then 12. Subſidies to undoe u in maintaining the War againſt the Scots; If we look upon the preſent illegal aſſeſſing of ſeverall Counties, and compelling them by an Army on foot to pay it &amp;c. we have very little reaſon to judge any ſuch matter.</p>
+            <p>Theſe, and many the like objections are made and eaſily anſwered by any judicious and reaſonable man.</p>
+            <p>
+               <hi>My preſent ſatiſfaction is beyond my preſent doubt; could I alwayes thus be ſatisſie in my doubts, I ſhould not be to ſeeke in my Reſolutions, but thus is my caſe; what purpo<g ref="char:EOLhyphen"/>ſes are built up by ſuch as is my preſent ſatisfaction are throwne downe againe by politique and cunning future Declarations and expreſſares from the adverſe Party.</hi>
+            </p>
+            <p>A preſent continuall remedy for that will be the ſodaine ſummoning up of your experience in theſe ſhort and briefe conſiderations.</p>
+            <list>
+               <item>1. Of what the Parliament hath done already for us, which malice it ſelfe cannot deny.</item>
+               <item>2. Of what they may doe every day againſt us if they pleaſe.</item>
+               <item>3. Of the ſad conſequences of their diſſolution, as the caſe of the Kingdom ſtands.</item>
+               <item>4. Of the ſad uſage of thoſe, in ſeverall parts of the Kingdome, who have beene deceived by their Declarations and promiſes, where ever they come.</item>
+               <item>5. Of the qualify, Religon and practiſes of the adverſe party, and their re<g ref="char:EOLhyphen"/>lation both by Religion and otherwayes to the Rebells in <hi>Ireland.</hi>
+               </item>
+               <item>6. Of former like Proceſtations Imprecations, promiſes cunning and poli<g ref="char:EOLhyphen"/>tique Declarations, in the cant overſie between us and the Scots <hi>&amp;c.</hi> Digeſt theſe and the like conſultations ſeriouſly in your thoughts, and when you can perceive ſatisfaction herein be deceived if you can.</item>
+            </list>
+            <p>From the preſent ſtate of the Kingdome, we cannot but take notice of theſe particulars.</p>
+            <p n="1">1. We now ſee the grounds, ends and aimes of the over ſpreading of this Kingdome with ignorant and non preaching or Popiſh and ſuperſtitious Mi<g ref="char:EOLhyphen"/>niſters; namely that by the ignorance of ſome and idolatry of others this de<g ref="char:EOLhyphen"/>ſigne of bringing in Popery and ſlavery into the Kingdome might proſper; for none but ignorant fools will fight for ſlavery and inperſtitious Formaliſts for Popery, or ſuperſtition.</p>
+            <p>Where prayers and preaching are all in formabey, where Sabaths are ſpent in ſports and ſenſuality there is a foundation laid for Popery and ſlavery: and by theſe weapons hath the Pope ſubdued the greateſt part of the Chriſtian world: God and the Kingdome have now no ſuch enemies; as where men have bin poyſoned with a ſuperſtitions ignorant Miniſtery.</p>
+            <pb n="14" facs="tcp:109166:8" rendition="simple:additions"/>
+            <p n="2">2. From the State of the Kingdome we may obſerve the great Hypocriſie of theſe times: Lies and Hypocrifie have begotten an Army againſt Truth and Sincerity; <hi>Nature aſequaur ſemina quiſque ſua.</hi> Its no marvane that that party ſpeak lies in hypocrifie in all their words; write lies in hypocrifie in all their Declarations, act lies in hypocrifie in all their converſations; fight for lies and hypocrifie in their contentions, which is begotten and maintained by lies in hypocrifie; this party where ever they come it is for the good of that place, the preſervation of thoſe Countries, if you will beleeve lies and hypocrifie: this party if you will yeeled your ſelves up to them, will not plunder you, will not prejudice you will pay for all that they have, do no man wrong: If you will beleeve lies and hypocrifie; this party fights for the true Proteſtant Religion, the Law of the Land, Priviledges of Parliament Liberty of the Subjects: If you will beleeve lies and hypocrifie this party ſay the Parliament would make you ſlaves, change your Religion, deſtroy your King undoe your Kingdome: If you will beleeve lies and hypocrifie: This party where ever they come, will tell you, that they have proſpered in all the Controverſie, had the better by much at <hi>Keynton</hi> Battaile, that they might have eaſily come to <hi>London</hi> when they came to <hi>Braiford</hi> if they pleaſed: but they had not the leaſt thought of plundering the City if you will beleeve lies and hypocrifie: This party will tell the places where they are, that <hi>London</hi> is divided, and cutting of one ano<g ref="char:EOLhyphen"/>thers throats; that they have 30 or 40 thouſand there on their ſiaes; that <hi>Lon<g ref="char:EOLhyphen"/>don</hi> is almoſt ſtarved for want of Victualls, if they will beleeve lies in hypocri<g ref="char:EOLhyphen"/>ſie: Never ſuch an Army of prophane liers and hypocrites, but its no marvaile ſince lies and hypocrifie brought them together.</p>
+            <p n="3">3. The preſent ſtate of the Kingdome ſheweth the great and dreadfull blood<g ref="char:EOLhyphen"/>guiltineſſe of our times; the blood of Chriſt the blood of Saints, the blood of many poore ignorant people lies heavy upon ſome great Perſons and Fami<g ref="char:EOLhyphen"/>lies in this Kingdome: when the blood or <hi>Chriſt,</hi> of <hi>Caine,</hi> of good, of bad ſhall joyntly ſorich in Gods eares, how ſhall he not heare? The cry of the Widdows and Fatherleſſe calls for vengeance, how ſhall he not heare? What murther did ever ſwim to Heaven in blood? Murther (though ſecret, and but once) ſel<g ref="char:EOLhyphen"/>dome eſcapes underected, unrevenged; what vengeance might thoſe expect, who have been the proper cauſes of the bloodſhed of thouſands? God give re<g ref="char:EOLhyphen"/>pentance unto life, that blood-guiltineſſe follow them not to death.</p>
+            <p n="4">4. From the State of Kingdom we may obſerve, the damnable contempt of the Goſpel of grace in this Kingdome: O ye wretches! what injury hath the Goſpel of Grace done you? wherfore go you about to kill it? many good works it hath done for you, for which of theſe would you deſtroy it? Is it be<g ref="char:EOLhyphen"/>cauſe it would teach you to be happy for ever? Is it becauſe it would ſave you? Is it becauſe it hath brought along with it peace, plenty preſervation? Is it becauſe it hath made you the only <hi>Canaan</hi> of the World? the envy of Nations? a terrour to your enemies? the delight of your friends? for which of thoſe good workes would you deſtroy it? Have you not wronged it enough already by ſtopping the current of it? hindring the progreſſe? darkning the glory? baniſhing, impriſoning abufing, mocking and perſecuting the Children of it? But muſt you now ſeeke the life of? and will you doe this under the pretence of fighting for it? What? <hi>Indas</hi> with a Kiſſe? What? Crowne Chriſt with
+<pb facs="tcp:109166:8" rendition="simple:additions"/>
+Thornes againe, in oppoſing his Truth.? ſpit in his face againe, in deſpiſing his Word? diſſemble like lewes with Haile, Haile, and hang him on the Croſſe? take heed, the Goſpell may ſave thoſe that killed Chriſt; but Chriſt will ne<g ref="char:EOLhyphen"/>ver ſave thoſe that kill his Goſpel: hath not this tyed faſt the three Crownes upon the head of your King? ſucceeded you in all your enterpriſes? made you famous in all the world? hath the Goſpel or its Children done you any hurt, that you now goe about to ruine both? have you not finnes enough to plead againſt you? but you muſt engage Chriſt, and his Goſpel, and his people a<g ref="char:EOLhyphen"/>gainſt you at the great day? would you make ſure the deepeſt, the hotteſt, the dreadfulleſt part of Hell? is this your ambition? What? is your aime at the heart of God, his Goſpel? at the eye of God, his people? God give repentance unto life, before this alſo purſue you to eternall death.</p>
+            <p n="5">5. From the preſent State of the Kingdome wee may with admiration behold Gods mercy to un<g ref="char:EOLhyphen"/>worthy <hi>England, O England</hi> wherefore art thou not deſtroyed? is it from the cart of thy Governors? the wiled me of thy Counſellors? the faithfullneſſe of thy State Officers? is it becauſe thou haſt wanted enemies abrord? haſt no Traytors at home? art at union with thy ſelf, that thou art not de<g ref="char:EOLhyphen"/>ſtroyed? is it becauſe thy Prophets have beene fatchfull? thy Judges impartiall? Gods worſhip purely adminiſtred? his Sabbaths ſanctified? is it becauſe thou haſt beene thankefull under mer<g ref="char:EOLhyphen"/>cies? Truthfull under meanes? kindly entreated Gods Miniſters? loved his people? if not for theſe; wherefore art thou not deſtroyed? have thy Pilots ſought to ſplit thee upon the Rocks? and yet art thou not deſtroyed? have thoſe who ſhould have bin thy Fathers, thy protectors <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ld thee, tempe<g ref="char:EOLhyphen"/>red with other Nations for thy ruine? and yet art thou not deſtroyed? have all the <gap reason="illegible" resp="#UOM" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> of ruine been upon thee? and ye art thou not deſtroyed? haſt thou b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n more ſinfull then many Nati<g ref="char:EOLhyphen"/>ons laid in the out, and yet are thou not deſtroyed? have there bin ſo many plots and projects, ſo contrived, to carried on, and yee nor deſtroyed? haſt thou bin ſo neere; <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> many times, and yet not loſt? have there bin ſo many factors for the deſtruction, ſo many Traytor to thy pea<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, ſcatte<g ref="char:EOLhyphen"/>red throughout the three Kingdomes, and yet preſerved? If thou haſt any ingenuity, any moraſity, any grace, admire Gods mercy and be thankefull.</p>
+            <p n="6">6. From the preſent State of the Kingdom we ſee what will ſuddenly become of us, if God doth not give us hearts to prevent it; all you that would not bee Papiſts, ſtand forth now, if ever and fight for your Religion, all you that would not be ſlaves ſtand forth now or never, and fight for your liberty. Conſider the conſequenees.</p>
+            <p>
+               <list>
+                  <item>1. Of loſing The day.</item>
+                  <item>2. Of getting The day.</item>
+               </list>
+            </p>
+            <p n="1">1. If you loſe the day, you loſe all; you are undone in your eſtates, undone in your liberties, undone in your poore poſterity; you and they were as good bee in <hi>Turkey,</hi> nay which is worſt of all undone in your Religion, you may write <hi>Ichabod</hi> upon all.</p>
+            <p n="2">2. If you get the day, you and yours are made for ever, your freedomes will be recove<g ref="char:EOLhyphen"/>red, and confirmed, your eſtates ſecured, Religion purified; you ſhall ſee ſuch daies of light and life, as will make you forget all your nights of griefe and ſorrow.</p>
+            <p>Thirdly conſider, Chriſt hath forewarned us of the ſorrows of latter daies, <hi>of Wars and rumors of Wars;</hi> that the Father ſhould be againſt the Childe and the Childe againſt the Fa<g ref="char:EOLhyphen"/>ther, that his cauſe ſhould make a breach in the neereſt relations, and of many troubles; but withall adviſeth us not to be troubled, but to rejoyce and to be exceeding glad, becauſe our Redemption draweth nigh; <hi>out of this eater will came ſweetneſſe and light out of this dark<g ref="char:EOLhyphen"/>neſse</hi> the immediate fore-runner of a cleere and warme day is a miſty morning: Chriſt aſ<g ref="char:EOLhyphen"/>cended from his Croſſe to his Crown, <hi>ſo ſhall his Churches,</hi> though now for a little while the cry of the Churches of Chriſt be; <hi>how long Lord, how long, &amp;c. yet ſuddenly their ſongs ſhall bee; Babilon the great is fiſten, is fallen; he will ſhortly take down your harpes from the Willow Trees, and teach you to warble out the Songs of</hi> Sion <hi>in the Land of</hi> Canaan.</p>
+            <p>Fourthly, conſider that God will doe his great wonders of judgement upon the wicked of the World by his Church and people &amp;c. at a time when they ſhall bee moſt confident of utter ruinating his Church; the whole current of the Scriptures declares that God will make his Church his battle <hi>dxe</hi> and weapons of his Warfare; that by his Churches be will beat in pi<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>es all the Nations of the Earth and that hee will make Sions hornes Iron, and her hooſes Braſſe &amp;c. <hi>and that Ieralclem ſhall be a cup of trembling and a hu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>chen-ſ me ſi ne, and that all that harthen themſelves with it, ſhal be broken to pieces by it and though men gather themſelves <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </hi>
+               <pb facs="tcp:109166:9"/>
+formed, and for the time of it, it ſhall be when they ſay <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>our <hi>our eye looke upon zi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n and let her be defiled:</hi> It ſhall be then, when all the who<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Eaten ſhall bee fil'd, with admiration both of the ſuddainneſſe and irrecoverableneſſe of their ruine.</p>
+            <p>Firſtly, Conſider that the ſtate of thiſ preſent time, and the face of things now doth abun<g ref="char:EOLhyphen"/>dantly intimate, that this cannot be long, and that the very quarrell in which Antichriſt ſhall fall, and the Churches of Chriſt ſhall riſe is now begun in this Kingdom: For</p>
+            <p>Firſt, the cauſe is purely the glory of Jeſus Chriſt his Word and Worſhip, this is the very quarrell between <hi>Chriſt</hi> and <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ntic<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>riſt, M<gap reason="illegible" resp="#UOM" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>eil</hi> and the <hi>Dragon</hi> as the word in imates.</p>
+            <p>Secondly, the followers and fig<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ers in this Battell are the Angels of <hi>Michael</hi> and the Dragon, who rank themſelves on the one ſide, but gouly honeſt men, <hi>&amp;c.</hi> and on the other, but Papiſts and Atheiſts <hi>&amp;c.</hi>
+            </p>
+            <p>Thirdly, this quarrell is generall, as the laſt and greateſt quarrell muſt be; for the good Party now through the Chriſtian world waits with prayers and teares for a good ſucceſſe here in <hi>England;</hi> and the Pepiſh partie alſo with all their endeavours, in <hi>Spane, France, Ireland, Denmark</hi> &amp;c. ſeek the ſurtherance of ſucceſſe on their ſides.</p>
+            <p>Fourthly, God hath hitnerto managed and followed the Cauſe after the ſame method as he will in that quarrell: <hi>Michael</hi> will not goe but with his Angels but yet he will ſo man<g ref="char:EOLhyphen"/>nage the buſineſſe as that it ſhall appeare that he is <hi>Michael,</hi> the mighty God: and hath he not done ſo in all the Battels hitherto in this preſent Controverſie? Hath he not appeared in glory at <hi>Keynton</hi> Battell, to the terrour and amazement of the Adverſaries (though like hardned <hi>Pharaſh's)</hi> they will not acknowledge Gods wonders, how did he appeare a <hi>Brainford?</hi> though our Advertaries brag at the ſuceſſ therof? as they may with everlaſting ſhame and reproach for their Treachery Cruelty and Cowardizc when they came with a full intent to be drunk with our blood and to ſwell with our wealth to plunder our City (though they have the face to deny it; when ſome of the chiefeſt of them ſent word to ſome of their friends in <hi>London</hi> to change their lodging, and ſecure themſelves in ſuch and ſuch places, intimating their intentions of blood, <hi>&amp;c.)</hi> yet how did God drive them away by two broken unprovided Regiments though they came intentionally; the whole Army con<g ref="char:EOLhyphen"/>ſiſting of many thouſands, <hi>&amp;c.</hi> how hath God appeared at <hi>Wincheſter?</hi> at <hi>Chicheſter,</hi> &amp;c. ſurely all this doth afford matter of incouragements in this Cauſe.</p>
+            <p>Therfore, if any conſiderations of the right or left hand. Liberty or Religion, inward or outward man will take held upon us, we ſhould hold on in the worke, and give out our ſelves in our Prayers Eſtates and Perſons now or never; better it is to part with ſome now like men then with all hereafter like ſlaves; did you but know the conſequences of this Warre, you would count it the beſt Husbandry to ſpare from your backs and bellies to maintain it: be not deceived with conceits of a Peace and an Accomodation; let the hatefull memory of that man be written in blood who delights in blood; yea let him have blood to drink for he is worthy; let in ward and outward trouble be his portion that deſires not Peace with <hi>truth</hi> and <hi>holineſſe:</hi> but there is all improbability (at leaſt as yet) of any ſuch Peace; for the interruption of the Proteſtant cauſe in <hi>Ireland</hi> occaſioned by, if not aim'd at in theſe preſent diſtractions, the inſurrections of the Papiſts and the riſings up of ſeverall Armies throughout the Kingdome (beſides the greater Body with the King) to wit, the Earles of <hi>Newcaſtle, Cumberland, Wo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ceſter,</hi> Sir <hi>Ralph Hoprens,</hi> &amp;c. the continuall Diſcoveries of Preparations beyond Seas by Factors gone over to that purpoſe for Armes and Ammu<g ref="char:EOLhyphen"/>nition, <hi>&amp;c.</hi> are ſufficient intimators to any man of the me neſt capacitie, that it is very unlikely that we ſhall have a good Peace from them, as the caſe now ſtands. <hi>The Peace of the Goſpel and of the Kingdome is the Crown we fight for;</hi> and therfore our <hi>Parliament Worthes</hi> are now labouring for ſuch a Peace without any more ſhedding of blood; which if it could be attain'd, would be the joy of every <hi>honeſt heart;</hi> only this we feare, our Enemies Deſigne in pretending a deſire of Peace, is to delay (if poſſibly untill the <hi>Spring,</hi> in which time they <hi>hope</hi> to <hi>gather ſtrength,</hi> and recover that blood, which (though they will not confeſſe) they loſt in the <hi>Fall.</hi> Happily they intend to make up their number again with an Army of Iriſh Rebels; (for doubtleſſe the Iriſh and Engliſh Rebellion againſt the Peace of the two King<g ref="char:EOLhyphen"/>domes is all of a blood and breeding:) but let them come we feare nothing, that blood is as corrputed as the former, and God will let it out: Our Cauſe is good, God is with us, and <hi>their Rock is not as ours, our enemies themſelves being Iudges: He hath ſhewed himſelfe glorious in his belineſſe, fearfull in praiſes working wonders: He hath thrown down mountaines fill'd up vallies, renewed his works of Workers:</hi> Be bold and <hi>confident, that beleeving in his Name without feare, he <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> leave us, untill we doe enjoy the glory of</hi> God <hi>in</hi> Canaan.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:109166:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
